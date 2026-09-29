@@ -1,10 +1,10 @@
-# 📘 Assignment: Jogo da Forca
+# 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-Pratique conceitos fundamentais de Python, como strings, listas, loops e condicionais, criando um jogo clássico da forca em que o jogador tenta adivinhar uma palavra oculta.
+Pratique conceitos fundamentais de Python, como strings, listas, loops e condicionais, criando um jogo clássico da forca em que o jogador tenta adivinhar uma palavra oculta. O objetivo do exercício é desenvolver a lógica de interação com o usuário, validação de entradas e controle de progresso durante a partida.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Gerar a Palavra Secreta
 
